@@ -1,0 +1,4 @@
+- !include resources/resource1.yml
+- creativeWorkStatus: Draft
+  name: Resource 2
+  id: https://example.org/resource2
